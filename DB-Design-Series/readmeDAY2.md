@@ -20,4 +20,4 @@ Client → Subscription → Plan: Many-to-one
 Subscription → Session / CheckIn / Payment: One-to-many
 CheckIn → Progress / Trainer_Feedback: One-to-one (or many feedbacks per check-in)
 
-![DAY 2 DB Design PNG Image](DB Design Series/Day2.png)
+![DAY 2 DB Design PNG Image](Day2.png)
